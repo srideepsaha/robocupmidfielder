@@ -70,10 +70,13 @@ The project documents common gaps between simulation and real robots and mitigat
 - compute and thermal limits (lightweight inference, possible ONNX export),
 - and RoboCup SPL communication constraints (bandwidth/latency).
 
+## Some Examples of RL-Trained Midfielder
 
+# Single Agent
 https://github.com/user-attachments/assets/2a55c67a-e564-49a7-a77c-9b0fd2a62759
 
+# Multi-Agent
+https://github.com/user-attachments/assets/f91b6a78-a422-4347-9a1c-2c6be30b5ed0
 
 ## Acknowledgements
 This repository is based on an academic project/report implementing RL interception behaviors in RoboCup SPL simulation and documenting both single-agent and multi-agent training pipelines.
-
