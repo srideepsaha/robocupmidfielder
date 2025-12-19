@@ -80,8 +80,10 @@ https://github.com/user-attachments/assets/f91b6a78-a422-4347-9a1c-2c6be30b5ed0
 
 https://github.com/user-attachments/assets/a4d8b179-a02e-4473-bf4b-49a4b37029cd
 
-## Location
-Relevant code is located in /scripts/gyms
+## Source Code and Documentation
+Relevant code is located in [`/scripts/gyms`](scripts/gyms)
+
+Thesis: [Srideep_Saha_COMP9991_Report.pdf](Srideep_Saha_COMP9991_Report.pdf)
 
 ## Acknowledgements
 This repository is based on an academic project/report implementing RL interception behaviors in RoboCup SPL simulation and documenting both single-agent and multi-agent training pipelines.
