@@ -1,0 +1,4 @@
+{Fri 14:54:40 Step:2} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Fri 14:54:40 Step:5} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
+{Fri 14:54:40 Step:9} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Fri 14:54:40 Step:13} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?

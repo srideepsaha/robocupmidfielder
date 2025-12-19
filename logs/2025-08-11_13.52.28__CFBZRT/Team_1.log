@@ -1,0 +1,2 @@
+{Mon 13:52:28 Step:2615} World_Parser.py: Received field line with NaNs [  2.03 -28.04  17.39    nan    nan    nan]
+{Mon 13:52:33 Step:2743} World_Parser.py: Received field line with NaNs [   nan    nan    nan   5.37 -60.09  13.21]

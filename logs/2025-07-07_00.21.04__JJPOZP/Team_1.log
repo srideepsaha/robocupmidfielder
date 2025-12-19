@@ -1,0 +1,2 @@
+{Mon 00:21:04 Step:475} World_Parser.py: Received field line with NaNs [   nan    nan    nan  10.82  15.16 -59.2 ]
+{Mon 00:21:10 Step:1593} Server_Comm.py: Received a new packet while on world.update()!

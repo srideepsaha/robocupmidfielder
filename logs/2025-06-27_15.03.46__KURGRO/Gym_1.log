@@ -1,0 +1,5 @@
+{Fri 15:03:46 Step:1} Server_Comm.py: Received a new packet while on world.update()!
+{Fri 15:03:46 Step:6} Server_Comm.py: The agent lost 4 consecutive packets! Is syncmode disabled?
+{Fri 15:03:46 Step:11} Server_Comm.py: The agent lost 3 consecutive packets! Is syncmode disabled?
+{Fri 15:03:46 Step:14} Server_Comm.py: The agent lost 2 consecutive packets! Is syncmode disabled?
+{Fri 15:03:46 Step:16} Server_Comm.py: The agent lost 1 packet! Is syncmode enabled?
